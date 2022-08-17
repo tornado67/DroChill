@@ -22,10 +22,11 @@ void loop()
     
     bleMouse.move(x, y, 0);
     delay(move_interval);
-    if (random(1,10) == 2 || random (1,10) == 5){
-        //bleMouse.click(MOUSE_RIGHT);
-    }
+    
   }
+  
+  if (random(0,7) == 3 )
+        bleMouse.click(MOUSE_RIGHT);
+  
   delay(loop_interval);
-
 }
