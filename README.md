@@ -21,7 +21,7 @@ DroChill is a tiny ESP32 powered bluetooth mouse jiggler that helps your Slack o
 ## Features
 
 - Moves your mouse evey 1 minute and randomly perofrms a right click
-- Prevents software like Slakc/MS Teams from setting you status to "away"
+- Prevents software like Slack or Microsoft Teams from setting you status to "away"
 - No setup required
 - Simple and reliable
 
