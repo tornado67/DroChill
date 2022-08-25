@@ -6,7 +6,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a tiny ESP32 powered bluetooth mouse jiggler that helps your Slack/MS Teams to stay awake while you're chilling. Say goodbye to your boss pinging you for not being online!
+DroChill is a tiny ESP32 powered bluetooth mouse jiggler that helps your Slack or Microsoft Teams to stay awake while you're chilling. Say goodbye to your boss pinging you for not being online!
 
 ## Setup
 - Clone the repo. 
