@@ -22,3 +22,7 @@ DroChill is a tiny, undetectable ESP32 powered Bluetooth mouse jiggler that help
 - Prevents software like Slack or Microsoft Teams from setting you status to "away"
 - No setup required
 - Simple and reliable
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
