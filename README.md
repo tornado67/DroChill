@@ -19,7 +19,7 @@ The DroChill is a tiny, undetectable ESP32 powered Bluetooth mouse jiggler that 
 - Simple and reliable
 
 
-## Setup
+## Setup 
 - Clone the repo. 
 - Open the repo with VisualStudio Code with PlatformIO installed.
 - Press upload button and wait for upload to finish.
